@@ -1,0 +1,1 @@
+This package was create in the Data Scientist Nanodegree's Udacity with the objetive to analise Gaussian and Binomial distributions.
